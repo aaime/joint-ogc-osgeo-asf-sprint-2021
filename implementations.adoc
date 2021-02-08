@@ -37,9 +37,9 @@
 | OGC API - Records
 | https://github.com/fxprunayre[François Prunayre]
 
-| http://cloudsdi.geo-solutions.it/geoserver/wfs3[GeoServer] -  https://github.com/geoserver/geoserver/tree/master/src/community/ogcapi[git]
-| OGC API - Features/Styles/Tiles
-|
+| https://tb16.geo-solutions.it/geoserver/ogc/features[GeoServer] -  https://github.com/geoserver/geoserver/tree/master/src/community/ogcapi[git]
+| OGC API - Features/Styles/Tiles (will implement Maps)
+| https://github.com/aaime[Andrea Aime]
 
 | https://blog.qgis.org/2019/11/26/qgis-server-is-ready-for-the-new-ogc-api-for-features-protocol[QGIS server]
 | OGC API - Features
